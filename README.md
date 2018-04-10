@@ -1,6 +1,6 @@
 ## word-classification
 
-![](https://github.com/vinsis/word-classification/blob/master/classifier.gif)
+![](https://github.com/vinsis/word-classification/blob/master/classifier.gif?raw=true)
 
 Accuracy: ~80%
 
